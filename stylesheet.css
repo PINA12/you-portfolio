@@ -1,0 +1,98 @@
+* {
+  margin:0;
+  padding:0;
+}
+body{ width : 950px;
+}
+header{
+       font-family:serif;
+       width:140%;
+       height:150px;
+       background-color:#483d8b;
+       color:white;
+}
+.headline{
+         font-size:50px;
+         float:left;
+         line-height:100px;
+         margin-left:100px;
+}
+.header-list{
+             line-height:100px;
+             float:left;
+             list-style:none;
+             margin-left:400px;
+}
+.header-list-item{
+                  position:relative; bottom:40px;
+                  padding:40px;
+                  display:inline-block;
+}
+.haikei{
+        position:relative; bottom:100px;
+        width:1330px;
+}
+.about{
+       font-family:serif;
+       text-align:center; 
+       position:relative; bottom:400px; ]  
+}
+.moji{
+      position:relative; bottom:700px;
+      width:100%;
+      text-align:center;
+      color:white;
+      font-weight:bold;
+      font-family:serif;
+      font-size:100px;
+}
+.icon{
+      position:relative; bottom:300px;
+      height:100px:
+      width:40px;
+}
+.introduction{
+              position:relative; left:300px; bottom:200px;
+}
+.work{
+      position:relative; bottom:70px; font-family:serif; position:relative; left:330px;
+      }
+.cap{
+     position:relative; right:200px;
+}
+.work2{
+       position:relative; right:100px;bottom:350px;
+}
+.work3{
+       position:relative; left:100px;
+   
+}
+.work4{
+       position:relative;right:100px; bottom:350px;
+}
+.contact{
+         text-align:center;
+         position:relative; top:100px; left:160px;
+         font-family:serif;
+}
+.con{
+     text-align:center;
+     position:relative; top:120px; left:200px;
+}
+footer{
+       width:140%;
+       height:100px;
+       text-align:center;
+       background-color:#483d8b;
+       position:relative; top:150px;
+}
+.footer-item{
+             text-align:center;
+             position:relative; top:30px; left:200px;
+             color:white;
+             font-family:serif;
+}
+#wrapper{
+         width:140%;
+         overflow:hidden;
+}
